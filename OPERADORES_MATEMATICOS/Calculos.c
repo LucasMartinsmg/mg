@@ -20,9 +20,9 @@ multiplicacao = numero1 * numero2;
 divisao = numero1 / numero2;
 
 printf("A soma e: %d\n", soma);
-
-
-
+printf("A subtração e: %d\n", subtracao);
+printf("A multiplicação e: %d\n", multiplicacao);
+printf("A divisao e: %d\n", divisao);
 
 
 }
