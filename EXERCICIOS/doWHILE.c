@@ -14,7 +14,7 @@ int nota;
 do
 {
     printf("Insira a nota (0 - 10) \n"); scanf("%d", &nota);
-} while (nota > 0 && nota < 10);
+} while ( nota < 10);
 {
     printf("Nota invalida digite nota entre 0 - 10 !!!\n");
     scanf("%d", &nota);
